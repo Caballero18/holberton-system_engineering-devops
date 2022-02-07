@@ -1,2 +1,13 @@
-#!/bin/bash
-head -3 iacta | tail -1 
+total 36
+drwxr-xr-x 2 root root 198 Feb  7 09:52 .
+drwxr-xr-x 6 root root 121 Feb  7 07:01 ..
+-rwxr--r-- 1 root root  32 Feb  7 08:09 0-hello_world
+-rwxr--r-- 1 root root  28 Feb  7 08:20 1-confused_smiley
+-rwxr--r-- 1 root root  29 Feb  7 08:34 2-hellofile
+-rwxr--r-- 1 root root  39 Feb  7 08:40 3-twofiles
+-rwxr--r-- 1 root root  29 Feb  7 08:42 4-lastlines
+-rwxr--r-- 1 root root  29 Feb  7 08:47 5-firstlines
+-rwxr--r-- 1 root root   0 Feb  7 09:52 6-third_line
+-rwxr--r-- 1 root root  80 Feb  7 09:41 7-file
+-rwxr--r-- 1 root root  36 Feb  7 09:44 8-cwd_state
+-rw-r--r-- 1 root root  13 Feb  7 07:58 README.md
