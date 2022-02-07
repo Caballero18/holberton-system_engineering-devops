@@ -1,2 +1,2 @@
 #!/bin/bash
-sort home /etc/passwd | cut -d : -f1,69
+sort /etc/passwd | cut -d : -f1, 69
