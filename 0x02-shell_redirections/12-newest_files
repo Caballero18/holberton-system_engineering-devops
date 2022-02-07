@@ -1,4 +1,5 @@
 #!/bin/bash
-ls -1t | head
+ls -l --sort=time | head -n
+
 
 
